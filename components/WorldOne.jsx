@@ -71,7 +71,7 @@ const WorldOne = () => {
           </div>
         ) : (
           <div className="flex items-center justify-center space-x-2">
-            // Loading spinner code
+            
           </div>
         )}
       </main>
