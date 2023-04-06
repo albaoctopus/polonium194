@@ -44,7 +44,7 @@ const Exploreq = () => {
       >
         <TypingText title="| NFT" textStyles="text-center text-[32px] text-white" />
         <TitleText
-          title={<>Выбери свою свободу<br className="md:block hidden" />и моё NFT</>}
+          title={<>Выбери свою свободу<br className="md:block hidden" /> и моё NFT</>}
           textStyles="text-center"
         />
         <div className="mt-[50px] flex lg:flex-row flex-col min-h-[70vh] gap-5">
